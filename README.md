@@ -195,26 +195,22 @@
 5. Build visuals as per the [Dashboard Layout](#-dashboard-layout) table
 6. Add department bookmarks and button navigation for HR / R&D / Sales tabs
 
----
-
 ## 📁 Files & Assets
+
+```plaintext
 HR_atty/
 ├── assets/
-│ ├── demo.gif # Animated walkthrough
-│ ├── demo.mp4 # Video demo
-│ ├── screenshot-full.png
-│ ├── screenshot-hr.png
-│ ├── screenshot-rnd.png
-│ ├── screenshot-sales.png
-│ └── hr_dashboard.pbix # Power BI source file (Git LFS)
+│   ├── demo.gif                              # Animated walkthrough
+│   ├── demo.mp4                              # Video demo
+│   ├── screenshot-full.png                   # Full dashboard
+│   ├── screenshot-hr.png                     # HR department view
+│   ├── screenshot-rnd.png                    # R&D department view
+│   ├── screenshot-sales.png                  # Sales department view
+│   └── hr_dashboard.pbix                     # Power BI file (Git LFS)
 ├── data/
-│ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 └── README.md
-
-
-
----
-
+```
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
